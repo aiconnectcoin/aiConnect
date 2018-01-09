@@ -17,7 +17,7 @@ Once you own aiConnect coins, they behave like physical gold coins: they possess
 
 Client and Source: Source Code
 
-Documentation: aiConnect Whitepaper
+Documentation: AiConnect Whitepaper
 
 Help: Twitter, Facebook
 
