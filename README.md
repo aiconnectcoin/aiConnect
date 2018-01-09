@@ -1,6 +1,6 @@
-<H3>AiConnect Official Development Repo</H3>
+<H1>AiConnect Official Development Repo</H1>
 
-What is AiConnect?
+<H3>What is AiConnect?</H3>
 
 AiConnect (abbreviated AIC).
 
@@ -12,7 +12,8 @@ AiConnect coins are digital coins which you can store on your computer drive, sm
 
 Once you own aiConnect coins, they behave like physical gold coins: they possess value and can be traded like stocks in popular exchanges. In the future you'll be able to use them to purchase goods and services.
 
-AiConnect Coin Resources
+
+<H3>AiConnect Coin Resources</H3>
 
 Client and Source: Source Code
 
@@ -20,7 +21,8 @@ Documentation: aiConnect Whitepaper
 
 Help: Twitter, Facebook
 
-Repo Guidelines
+<H1>Repo Guidelines</H1>
+
 Developers work in their own forks, then submit pull requests when they think their feature or bug fix is ready.
 If it is a simple/trivial/non-controversial change, then one of the development team members simply pulls it.
 If it is a more complicated or potentially controversial change, then the change may be discussed in the pull request, or the requester may be asked to start a discussion in the aiConnect Forum for a broader community discussion.
